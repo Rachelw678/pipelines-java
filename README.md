@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/rachelw678/5a966710-122f-4f44-930a-10a057f21a8e/03fbf8cb-1b86-4b48-8c3f-e81b56e0ccd6/_apis/work/boardbadge/eedb7e3f-3265-42d1-b913-2d5217057529)](https://dev.azure.com/rachelw678/5a966710-122f-4f44-930a-10a057f21a8e/_boards/board/t/03fbf8cb-1b86-4b48-8c3f-e81b56e0ccd6/Microsoft.RequirementCategory)
 
 # Contributing
 
